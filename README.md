@@ -16,18 +16,7 @@ Hi 👋, I'm **Kalimuthu S**
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
 
----
 
-# 📌 Projects:
-- 🔐 **Cloud-of-Clouds Secure Storage System**  
-  `Java + Spring Boot + MySQL + React`  
-  A full-stack cloud storage system that splits and encrypts files, simulating multi-cloud backup.
-  
-- 📝 **Product Inventory Tracker**  
-  `Java + JDBC + MySQL CLI`  
-  Simple console-based inventory app demonstrating CRUD and database interaction.
-
----
 
 # 📚 Currently Learning:
 - 🌐 Full Stack Development (Java Backend + React Frontend)
